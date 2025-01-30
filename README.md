@@ -13,9 +13,9 @@ This repository is dedicated to my personal challenge of creating one project ev
 - App: React Native, Expo
 - API: C#
 
-### 2️⃣ February - [Project Name]
+### 2️⃣ February - Group App
 
-**Description:** 
+**Description:** WIP: a communication app for sharing messages, polls, memories, images etc. Alternative to Facebook Groups/Messenger.
 **Tech Stack:** [Technologies used]
 
 ### 3️⃣ March - [Project Name]
